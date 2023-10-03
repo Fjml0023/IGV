@@ -1,0 +1,13 @@
+# ninja log v5
+28	3123	7180542039808725	CMakeFiles/pr2b.dir/igvEscena3D.cpp.obj	fcab67bc19a066d3
+10	3146	7180542040048824	CMakeFiles/pr2b.dir/igvPunto3D.cpp.obj	7623f1050481876
+0	3232	7180542040938703	CMakeFiles/pr2b.dir/igvCamara.cpp.obj	7cd4647514af602
+35	3391	7180542042510629	CMakeFiles/pr2b.dir/pr2b.cpp.obj	4e054d4cc37d3015
+17	3466	7180542043300657	CMakeFiles/pr2b.dir/igvInterfaz.cpp.obj	ed1d4ceea4afd1e0
+3466	3840	7180542046957075	pr2b.exe	96daac926fb2b6b1
+17	1516	7180567655589204	CMakeFiles/pr2b.dir/igvEscena3D.cpp.obj	fcab67bc19a066d3
+25	1590	7180567656339328	CMakeFiles/pr2b.dir/igvPunto3D.cpp.obj	7623f1050481876
+7	1593	7180567656369234	CMakeFiles/pr2b.dir/igvCamara.cpp.obj	7cd4647514af602
+38	1866	7180567659087419	CMakeFiles/pr2b.dir/igvInterfaz.cpp.obj	ed1d4ceea4afd1e0
+49	1903	7180567659469334	CMakeFiles/pr2b.dir/pr2b.cpp.obj	4e054d4cc37d3015
+1903	2179	7180567662180651	pr2b.exe	96daac926fb2b6b1
